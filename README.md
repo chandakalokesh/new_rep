@@ -28,9 +28,9 @@
 <a href="www.github.com">vivek</a>  
 [Good boy](https://github.com/)   
 **table**
-|Name|age|mobileno|address|VIP|Lover boy|
-|-----|-----|------|------|---|---|
-|vivek|19|664644546|vijayawada|yes|yes|      
+Name|age|mobileno|address|VIP|Lover boy  
+-----|-----|------|------|---|---  
+vivek|19|664644546|vijayawada|yes|yes        
    
    
 ~~~
